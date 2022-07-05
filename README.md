@@ -1,2 +1,2 @@
 # tryheroku
-cutdown version to see if heroku works
+cutdown version to display picture on button click
